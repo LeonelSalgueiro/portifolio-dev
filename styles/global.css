@@ -40,21 +40,26 @@
 }
 
 body {
+  
   font: var(--text-md);
+  background-color: var(--gray-200);
   color: var(--gray-400);
+  max-width: 100%;
+  
 }
 
 strong {
   font: var(--subtitle);
   color: var(--gray-500);
- 
-  & span {
-    color: var(--red);
-  }
 
 }
 
 h1 {
 font: var(--title-lg);
 color: var(--gray-600);
+}
+
+span {
+  color: var(--red);
+  font: var(--subtitle);
 }

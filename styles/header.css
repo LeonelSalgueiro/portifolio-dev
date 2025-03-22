@@ -10,7 +10,7 @@ header {
 
   .container {
     display: flex;
-    margin: 120px 163px 183px;
+    margin: 220px 163px 183px;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -44,6 +44,7 @@ header {
   justify-content: center;
   padding: 8px 16px;
   margin-top: 80px;
+  margin-bottom: 96px;
   gap: 16px;
 
   .button-item {
@@ -66,4 +67,14 @@ header {
 
 .button-service span {
  color: var(--gray-500);
+}
+
+
+#pointer {
+
+img {
+  width: 32px;
+  height: 32px;
+}
+
 }
