@@ -1,0 +1,42 @@
+
+
+header {
+  display: flex;
+  height: 750px;
+  background: url(../assets/image/Background_Intro.png) no-repeat center/cover;
+  justify-content: center;
+  align-items: center;
+  
+
+  .container {
+    display: flex;
+    margin: 120px 163px 183px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+
+    .header-image {
+      margin-bottom: 56px;
+    }
+
+    .header-text {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      
+      & h1 {
+        margin-bottom: 20px;
+      }
+    }
+  }
+
+
+
+  img {
+    width: 112px;
+    height: 112px;
+
+}
+}                  
