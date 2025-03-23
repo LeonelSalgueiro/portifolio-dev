@@ -60,6 +60,14 @@
 
 }
 
+.sites:hover {
+  outline: 1.5px solid var(--gray-400);
+}
+
+
+
+
+
 .services {
   display: flex;
   flex-direction: column;
@@ -112,5 +120,9 @@
     color: var(--gray-600);
     margin-bottom: 8px;
 }
+
+  & p {
+    font: var(--text-sm);
+  }
 
 }
