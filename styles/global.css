@@ -63,3 +63,8 @@ span {
   color: var(--red);
   font: var(--subtitle);
 }
+
+a {
+
+  text-decoration: none;
+}

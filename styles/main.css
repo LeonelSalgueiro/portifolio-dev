@@ -20,17 +20,17 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   justify-items: center;
-  border: 1px solid red;
-  margin: 120px;
+  justify-self: center;
+  width: fit-content;
+  margin: 56px 120px 144px;
   gap: 24px;
   
 }
 
 .sites {
-  border: 1px solid blue;
   width: 330px;
   background-color: var(--gray-300);
-  margin: 0;
+  border-radius: 12px;
 
   img {
 
@@ -54,8 +54,8 @@
   & p {
     font: var(--text-sm);
     color: var(--gray-500);
+    margin-bottom: 8px;
   }
  }
-
 
 }
