@@ -51,7 +51,7 @@ Minha abordagem é prática: construo laboratórios de ataque e defesa para ente
 
 Estou à disposição para entrevistas e colaborações técnicas.
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonel_Salgueiro-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin-aqui)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonel_Salgueiro-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/leonel-salgueiro-904240347/])
 * [![GitHub](https://img.shields.io/badge/GitHub-LeonelSalgueiro-black?style=flat&logo=github)](https://github.com/LeonelSalgueiro)
 * ✉️ **Email:** leonel.ifcs@outlook.com
 
